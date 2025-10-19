@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @Van-Excel
-- 👀 I’m interested in Software Engineering, Artificial Intelligence, Cognitive Science
-- 🌱 I’m currently learning Back End Engineering, Python.
+- 👀 I’m interested in Software Engineering, distributed systems, Artificial Intelligence, Cognitive Science
+- 🌱 I’m currently learning how to build reliable and scalable systems.
 - 💞️ I’m looking to collaborate on exciting projects.
-- 👀 let's talk about FASTAPI, DJANGO and NODEjs
-- 📫 How to reach me ...vanexcel.investments@gmail.com
+- 👀 let's talk about System design, distributed systems and Python
+- 📫 How to reach me ...vanexcel.acheampong@gmail.com
 
 <!---
 Van-Excel/Van-Excel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
