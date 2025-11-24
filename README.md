@@ -2,7 +2,7 @@
 - 👀 I’m interested in Software Engineering, distributed systems, Artificial Intelligence, Cognitive Science
 - 🌱 I’m progressively learning how to design and build reliable and scalable systems.
 - 💞️ I’m looking to collaborate on exciting projects.
-- 👀 let's talk about system design and distributed systems
+- 👀 let's talk about databases, system design and distributed systems
 - 📫 How to reach me ...vanexcel.acheampong@gmail.com
 
 <!---
