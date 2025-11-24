@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Van-Excel
 - 👀 I’m interested in Software Engineering, distributed systems, Artificial Intelligence, Cognitive Science
-- 🌱 I’m currently learning how to build reliable and scalable systems.
+- 🌱 I’m progressively learning how to design and build reliable and scalable systems.
 - 💞️ I’m looking to collaborate on exciting projects.
-- 👀 let's talk about System design, distributed systems and Python
+- 👀 let's talk about system design and distributed systems
 - 📫 How to reach me ...vanexcel.acheampong@gmail.com
 
 <!---
